@@ -1,0 +1,75 @@
+{
+  "menu": [
+    {
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons mdi mdi-home-outline",
+      "slug": "dashboard",
+      "url": "c/dashboard"
+    },
+    {
+      "name": "Perfil",
+      "icon": "menu-icon tf-icons mdi mdi-account-outline",
+      "slug": "perfil",
+      "url": "c/perfil"
+    },
+    {
+      "name": "Meu currículo",
+      "icon": "menu-icon tf-icons mdi mdi-account-details-outline",
+      "slug": "curriculo",
+      "url": "c/curriculo"
+    },
+    {
+      "name": "Minhas candidaturas",
+      "icon": "menu-icon tf-icons mdi mdi-email-fast-outline",
+      "slug": "candidaturas",
+      "url": "c/candidaturas"
+    },
+    {
+      "name": "Vagas favoritas",
+      "icon": "menu-icon tf-icons mdi mdi-bookmark-multiple-outline",
+      "slug": "vagas-favoritas",
+      "url": "c/vagas-favoritas"
+    },
+    {
+      "name": "Seguindo",
+      "icon": "menu-icon tf-icons mdi mdi-star-outline",
+      "slug": "seguindo",
+      "url": "seguindo"
+    },
+    {
+      "name": "Alerta de vagas",
+      "icon": "menu-icon tf-icons mdi mdi-bell-badge-outline",
+      "slug": "alerta-de-vagas",
+      "url": "alerta-de-vagas"
+    },
+    {
+      "name": "Mensagens",
+      "icon": "menu-icon tf-icons mdi mdi-message-outline",
+      "slug": "mensagens",
+      "url": "mensagens"
+    },
+    {
+      "name": "Entrevistas",
+      "icon": "menu-icon tf-icons mdi mdi-laptop-account",
+      "slug": "entrevistas",
+      "url": "entrevistas"
+    },
+    {
+      "menuHeader": ""
+    },
+    {
+      "url": "https://github.com/themeselection/materio-bootstrap-html-laravel-admin-template-free/issues",
+      "icon": "menu-icon tf-icons mdi mdi-lifebuoy",
+      "name": "Suporte",
+      "slug": "suporte",
+      "target": "_blank"
+    },
+    {
+      "url": "https://themeselection.com/demo/materio-bootstrap-html-admin-template/documentation/laravel-introduction.html",
+      "icon": "menu-icon tf-icons mdi mdi-file-document-multiple-outline",
+      "name": "Base de conhecimeno",
+      "slug": "documentation",
+      "target": "_blank"
+    }
+  ]
+}
